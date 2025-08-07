@@ -1,22 +1,22 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=800&color=00C4FF&center=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Shreya+Jana!;%F0%9F%92%BB+Tech+Enthusiast+%7C+Learner+%7C+Coder" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=800&color=FF69B4&center=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Shreya+Jana!;%F0%9F%9A%80+Full+Stack+Web+Developer" alt="Typing SVG">
 </a>
 </h1>
 
 <p align="center">
-<em>Aspiring developer passionate about building digital solutions and exploring the tech universe 🚀</em>
+<em>Aspiring Frontend Developer passionate about creating impactful digital experiences 🌟</em>
 </p>
 
 <p align="center">
 <a href="https://github.com/ShreyaJana-2003">
 <img src="https://img.shields.io/github/followers/ShreyaJana-2003?label=Follow&style=flat-square&logo=github&logoColor=white&color=181717" />
 </a>
-<a href="https://www.linkedin.com/in/shreya-jana-26a4a4328/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sjana2181@gmail.com">
+<a href="mailto:chakrabortytushar684@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shreya-jana-74935a265">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
@@ -28,41 +28,40 @@
 
 ## 🌟 About Me
 
-I'm a tech-driven individual currently pursuing my academic journey while diving into the world of *coding, development, and **creative technology*. I enjoy solving problems and working on impactful projects—big or small!
+I'm a **Frontend Developer** with hands-on experience in **HTML,CSS,Java Script and React**. I'm dedicated to building **responsive**, **scalable**, and **user-friendly** web applications.
 
-- 💡 Constantly learning new tools and building personal/college projects.
-- 🛠 Comfortable with frontend technologies and logic building.
-- 📚 Passionate about programming, designing, and exploring software trends.
-- 🤝 Open to collaborations, hackathons, and tech challenges.
+- 🔭 Currently converting projects from **Bootstrap** to **pure HTML & CSS**.
+- 🌱 Exploring **React**, **Fetch API**, **JavaScript ES6+**, and **backend integration**.
+- 💡 Passionate about **clean UI/UX**, reusable components, and frontend performance.
+- 🎯 Goal: To master **full-stack development** and build impactful real-world projects.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 📱 Developing responsive web apps using *HTML, CSS, JavaScript*.
-- 🌱 Experimenting with *Tailwind, **Bootstrap, and **interactive UIs*.
-- 🧠 Solving *DSA problems* to strengthen logic and problem-solving.
-- 💻 Exploring project ideas around productivity and student tools.
+- 🔄 Rewriting websites using **HTML, CSS, and JavaScript** for responsiveness.
+- 💼 Building practical projects like **To-Do apps**, **restaurant sites**, and **clocks**.
+- 🔍 Practicing **DSA**, **SQL**, and preparing for developer interviews.
 
 ---
 
 ## 🌱 Currently Learning
 
 <p align="center">
-<a href="https://www.javascript.com">
+<a href="https://react.dev">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
 </a>
-<a href="https://tailwindcss.com">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS" />
+<a href="https://expressjs.com">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" />
 </a>
-<a href="https://getbootstrap.com">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" />
+<a href="https://nodejs.org">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
 </a>
-<a href="https://www.w3.org/html">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
-</a>
-<a href="https://www.w3.org/Style/CSS/">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />
+<a href="https://www.mongodb.com">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" />
 </a>
 </p>
 
@@ -70,38 +69,38 @@ I'm a tech-driven individual currently pursuing my academic journey while diving
 
 ## 💬 Ask Me About
 
-- *Web Development* (HTML, CSS, JavaScript, Tailwind, Bootstrap)
-- *Programming Fundamentals*
-- *College Tech Projects*
-- *Designing Creatives with Canva/Figma*
-- *Resume or GitHub Setup Tips*
+
+- Frontend (HTML, CSS, JavaScript, React)
+- Responsive UI Design
+- DOM Manipulation & Fetch API
+- Git & GitHub Projects
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠️ Skills & Tools
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" width="40" alt="Canva" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
 <a href="https://github.com/ShreyaJana-2003">
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyaJana-2003&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShreyaJana-2003&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/ShreyaJana-2003">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaJana-2003&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaJana-2003&layout=compact&theme=radical&hide_border=true&border_radius=10" />
 </a>
 </p>
 
@@ -109,10 +108,10 @@ I'm a tech-driven individual currently pursuing my academic journey while diving
 
 ## 📫 Connect With Me
 
-📧 *Email*: [shreyajana2003@gmail.com](mailto:sjana2181@gmail.com)  
-💼 *LinkedIn*: [Shreya Jana](https://www.linkedin.com/in/shreya-jana-26a4a4328/)  
-🌐 *GitHub*: [ShreyaJana-2003](https://github.com/ShreyaJana-2003)
+📧 **Email**: [sjana2181@gmail.com](mailto:sjana2181@gmail.com)  
+🌐 **GitHub**: [ShreyaJana-2003](https://github.com/ShreyaJana-2003)  
+💼 **LinkedIn**: [Shreya Jana](https://www.linkedin.com/in/shreya-jana-74935a265)
 
 <p align="center">
-<em>Thank you for stopping by! Let's connect and create something amazing 💻🌟</em>
+<em>Thanks for visiting! Let's code something great together 🌈</em>
 </p>
