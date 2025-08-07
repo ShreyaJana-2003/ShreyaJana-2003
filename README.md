@@ -110,7 +110,7 @@ I'm a **Frontend Developer** with hands-on experience in **HTML,CSS,Java Script 
 
 📧 **Email**: [sjana2181@gmail.com](mailto:sjana2181@gmail.com)  
 🌐 **GitHub**: [ShreyaJana-2003](https://github.com/ShreyaJana-2003)  
-💼 **LinkedIn**: [Shreya Jana](https://www.linkedin.com/in/shreya-jana-74935a265)
+💼 **LinkedIn**: [Shreya Jana](https://www.linkedin.com/in/shreya-jana-26a4a4328/)
 
 <p align="center">
 <em>Thanks for visiting! Let's code something great together 🌈</em>
