@@ -12,10 +12,10 @@
 <a href="https://github.com/ShreyaJana-2003">
 <img src="https://img.shields.io/github/followers/ShreyaJana-2003?label=Follow&style=flat-square&logo=github&logoColor=white&color=181717" />
 </a>
-<a href="https://www.linkedin.com/in/shreyajana">
+<a href="https://www.linkedin.com/in/shreya-jana-26a4a4328/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:shreyajana2003@gmail.com">
+<a href="mailto:sjana2181@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -109,8 +109,8 @@ I'm a tech-driven individual currently pursuing my academic journey while diving
 
 ## 📫 Connect With Me
 
-📧 *Email*: [shreyajana2003@gmail.com](mailto:shreyajana2003@gmail.com)  
-💼 *LinkedIn*: [Shreya Jana](https://www.linkedin.com/in/shreyajana)  
+📧 *Email*: [shreyajana2003@gmail.com](mailto:sjana2181@gmail.com)  
+💼 *LinkedIn*: [Shreya Jana](https://www.linkedin.com/in/shreya-jana-26a4a4328/)  
 🌐 *GitHub*: [ShreyaJana-2003](https://github.com/ShreyaJana-2003)
 
 <p align="center">
